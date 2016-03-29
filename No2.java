@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package no2;
+package no2update;
 
 /**
  *
  * @author Praktikum
  */
-public class No2 {
+public class No2update {
 
     /**
      * @param args the command line arguments
